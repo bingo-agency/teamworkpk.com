@@ -1,0 +1,48 @@
+[11-Dec-2022 16:16:33 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function getEachById() on null in /home/teamwogp/public_html/admin/includes/header.php:40
+Stack trace:
+#0 /home/teamwogp/public_html/admin/add_leads.php(2): include()
+#1 {main}
+  thrown in /home/teamwogp/public_html/admin/includes/header.php on line 40
+[11-Dec-2022 16:16:55 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function getEachById() on null in /home/teamwogp/public_html/admin/includes/header.php:40
+Stack trace:
+#0 /home/teamwogp/public_html/admin/add_leads.php(2): include()
+#1 {main}
+  thrown in /home/teamwogp/public_html/admin/includes/header.php on line 40
+[11-Dec-2022 16:18:40 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function getEachById() on null in /home/teamwogp/public_html/admin/includes/header.php:40
+Stack trace:
+#0 /home/teamwogp/public_html/admin/add_leads.php(2): include()
+#1 {main}
+  thrown in /home/teamwogp/public_html/admin/includes/header.php on line 40
+[11-Dec-2022 16:18:55 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function getEachById() on null in /home/teamwogp/public_html/admin/includes/header.php:40
+Stack trace:
+#0 /home/teamwogp/public_html/admin/add_leads.php(2): include()
+#1 {main}
+  thrown in /home/teamwogp/public_html/admin/includes/header.php on line 40
+[02-Jan-2023 09:21:07 America/Toronto] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/teamwogp/public_html/admin/includes/loginprocess.php on line 12
+[02-Jan-2023 09:21:07 America/Toronto] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/teamwogp/public_html/admin/includes/loginprocess.php on line 12
+[03-Apr-2023 06:58:34 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:34 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:35 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:35 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:35 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:35 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:35 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:36 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:36 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:36 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:36 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:37 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:37 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:37 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:37 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:38 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:38 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:39 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:39 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Apr-2023 06:58:39 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[02-Jul-2023 03:48:42 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[02-Jul-2023 06:15:04 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[02-Jul-2023 06:15:57 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[02-Jul-2023 12:14:46 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Jul-2023 02:35:02 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19
+[03-Jul-2023 05:27:50 America/Toronto] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamwogp/public_html/admin/includes/connection.php on line 19

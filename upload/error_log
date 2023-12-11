@@ -1,0 +1,88 @@
+[10-Dec-2022 20:58:06 America/Toronto] PHP Fatal error:  Uncaught Exception: Unknown image type. in /home/teamwogp/public_html/upload/compress.php:53
+Stack trace:
+#0 /home/teamwogp/public_html/upload/compress.php(80): resizeImg(100, './1654201750IMG...', './1654201750IMG...', Array)
+#1 /home/teamwogp/public_html/upload/compress.php(102): optymizeFile('./1654201750IMG...', Array)
+#2 /home/teamwogp/public_html/upload/compress.php(119): listFiles('./', '%.*(png|jpg|jpe...', Array)
+#3 /home/teamwogp/public_html/upload/compress.php(141): searchForFiles('.', '%.*(png|jpg|jpe...', true, Array)
+#4 {main}
+  thrown in /home/teamwogp/public_html/upload/compress.php on line 53
+[30-Jan-2023 13:18:08 America/Toronto] PHP Fatal error:  Uncaught Exception: Unknown image type. in /home/teamwogp/public_html/upload/compress.php:53
+Stack trace:
+#0 /home/teamwogp/public_html/upload/compress.php(80): resizeImg(100, './1654201750IMG...', './1654201750IMG...', Array)
+#1 /home/teamwogp/public_html/upload/compress.php(102): optymizeFile('./1654201750IMG...', Array)
+#2 /home/teamwogp/public_html/upload/compress.php(119): listFiles('./', '%.*(png|jpg|jpe...', Array)
+#3 /home/teamwogp/public_html/upload/compress.php(141): searchForFiles('.', '%.*(png|jpg|jpe...', true, Array)
+#4 {main}
+  thrown in /home/teamwogp/public_html/upload/compress.php on line 53
+[03-Apr-2023 07:44:53 America/Toronto] PHP Fatal error:  Uncaught Exception: Unknown image type. in /home/teamwogp/public_html/upload/compress.php:53
+Stack trace:
+#0 /home/teamwogp/public_html/upload/compress.php(80): resizeImg(100, './1654201750IMG...', './1654201750IMG...', Array)
+#1 /home/teamwogp/public_html/upload/compress.php(102): optymizeFile('./1654201750IMG...', Array)
+#2 /home/teamwogp/public_html/upload/compress.php(119): listFiles('./', '%.*(png|jpg|jpe...', Array)
+#3 /home/teamwogp/public_html/upload/compress.php(141): searchForFiles('.', '%.*(png|jpg|jpe...', true, Array)
+#4 {main}
+  thrown in /home/teamwogp/public_html/upload/compress.php on line 53
+[05-Apr-2023 14:29:20 America/Toronto] PHP Warning:  imagecreatefrompng(): gd-png:  fatal libpng error: Read Error: truncated data in /home/teamwogp/public_html/upload/compress.php on line 56
+[05-Apr-2023 14:29:20 America/Toronto] PHP Warning:  imagecreatefrompng(): gd-png error: setjmp returns error condition in /home/teamwogp/public_html/upload/compress.php on line 56
+[05-Apr-2023 14:29:20 America/Toronto] PHP Warning:  imagecreatefrompng(): './1649692664Add a subheading (1).png' is not a valid PNG file in /home/teamwogp/public_html/upload/compress.php on line 56
+[05-Apr-2023 14:29:20 America/Toronto] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/teamwogp/public_html/upload/compress.php on line 63
+[05-Apr-2023 14:29:42 America/Toronto] PHP Fatal error:  Uncaught Exception: Unknown image type. in /home/teamwogp/public_html/upload/compress.php:53
+Stack trace:
+#0 /home/teamwogp/public_html/upload/compress.php(80): resizeImg(100, './1654201750IMG...', './1654201750IMG...', Array)
+#1 /home/teamwogp/public_html/upload/compress.php(102): optymizeFile('./1654201750IMG...', Array)
+#2 /home/teamwogp/public_html/upload/compress.php(119): listFiles('./', '%.*(png|jpg|jpe...', Array)
+#3 /home/teamwogp/public_html/upload/compress.php(141): searchForFiles('.', '%.*(png|jpg|jpe...', true, Array)
+#4 {main}
+  thrown in /home/teamwogp/public_html/upload/compress.php on line 53
+[10-Apr-2023 14:04:15 America/Toronto] PHP Fatal error:  Uncaught Exception: Unknown image type. in /home/teamwogp/public_html/upload/compress.php:53
+Stack trace:
+#0 /home/teamwogp/public_html/upload/compress.php(80): resizeImg(100, './1654201750IMG...', './1654201750IMG...', Array)
+#1 /home/teamwogp/public_html/upload/compress.php(102): optymizeFile('./1654201750IMG...', Array)
+#2 /home/teamwogp/public_html/upload/compress.php(119): listFiles('./', '%.*(png|jpg|jpe...', Array)
+#3 /home/teamwogp/public_html/upload/compress.php(141): searchForFiles('.', '%.*(png|jpg|jpe...', true, Array)
+#4 {main}
+  thrown in /home/teamwogp/public_html/upload/compress.php on line 53
+[12-Apr-2023 14:10:47 America/Toronto] PHP Fatal error:  Uncaught Exception: Unknown image type. in /home/teamwogp/public_html/upload/compress.php:53
+Stack trace:
+#0 /home/teamwogp/public_html/upload/compress.php(80): resizeImg(100, './1654201750IMG...', './1654201750IMG...', Array)
+#1 /home/teamwogp/public_html/upload/compress.php(102): optymizeFile('./1654201750IMG...', Array)
+#2 /home/teamwogp/public_html/upload/compress.php(119): listFiles('./', '%.*(png|jpg|jpe...', Array)
+#3 /home/teamwogp/public_html/upload/compress.php(141): searchForFiles('.', '%.*(png|jpg|jpe...', true, Array)
+#4 {main}
+  thrown in /home/teamwogp/public_html/upload/compress.php on line 53
+[25-Apr-2023 15:32:57 America/Toronto] PHP Fatal error:  Uncaught Exception: Unknown image type. in /home/teamwogp/public_html/upload/compress.php:53
+Stack trace:
+#0 /home/teamwogp/public_html/upload/compress.php(80): resizeImg(100, './1654201750IMG...', './1654201750IMG...', Array)
+#1 /home/teamwogp/public_html/upload/compress.php(102): optymizeFile('./1654201750IMG...', Array)
+#2 /home/teamwogp/public_html/upload/compress.php(119): listFiles('./', '%.*(png|jpg|jpe...', Array)
+#3 /home/teamwogp/public_html/upload/compress.php(141): searchForFiles('.', '%.*(png|jpg|jpe...', true, Array)
+#4 {main}
+  thrown in /home/teamwogp/public_html/upload/compress.php on line 53
+[28-Apr-2023 06:20:44 America/Toronto] PHP Fatal error:  Uncaught Exception: Unknown image type. in /home/teamwogp/public_html/upload/compress.php:53
+Stack trace:
+#0 /home/teamwogp/public_html/upload/compress.php(80): resizeImg(100, './1654201750IMG...', './1654201750IMG...', Array)
+#1 /home/teamwogp/public_html/upload/compress.php(102): optymizeFile('./1654201750IMG...', Array)
+#2 /home/teamwogp/public_html/upload/compress.php(119): listFiles('./', '%.*(png|jpg|jpe...', Array)
+#3 /home/teamwogp/public_html/upload/compress.php(141): searchForFiles('.', '%.*(png|jpg|jpe...', true, Array)
+#4 {main}
+  thrown in /home/teamwogp/public_html/upload/compress.php on line 53
+[22-May-2023 06:49:43 America/Toronto] PHP Fatal error:  Uncaught Exception: Unknown image type. in /home/teamwogp/public_html/upload/compress.php:53
+Stack trace:
+#0 /home/teamwogp/public_html/upload/compress.php(80): resizeImg(100, './1654201750IMG...', './1654201750IMG...', Array)
+#1 /home/teamwogp/public_html/upload/compress.php(102): optymizeFile('./1654201750IMG...', Array)
+#2 /home/teamwogp/public_html/upload/compress.php(119): listFiles('./', '%.*(png|jpg|jpe...', Array)
+#3 /home/teamwogp/public_html/upload/compress.php(141): searchForFiles('.', '%.*(png|jpg|jpe...', true, Array)
+#4 {main}
+  thrown in /home/teamwogp/public_html/upload/compress.php on line 53
+[25-May-2023 04:57:48 America/Toronto] PHP Fatal error:  Uncaught Exception: Unknown image type. in /home/teamwogp/public_html/upload/compress.php:53
+Stack trace:
+#0 /home/teamwogp/public_html/upload/compress.php(80): resizeImg(100, './1654201750IMG...', './1654201750IMG...', Array)
+#1 /home/teamwogp/public_html/upload/compress.php(102): optymizeFile('./1654201750IMG...', Array)
+#2 /home/teamwogp/public_html/upload/compress.php(119): listFiles('./', '%.*(png|jpg|jpe...', Array)
+#3 /home/teamwogp/public_html/upload/compress.php(141): searchForFiles('.', '%.*(png|jpg|jpe...', true, Array)
+#4 {main}
+  thrown in /home/teamwogp/public_html/upload/compress.php on line 53
+[08-Jun-2023 16:34:07 America/Toronto] PHP Warning:  imagecreatefrompng(): gd-png:  fatal libpng error: Read Error: truncated data in /home/teamwogp/public_html/upload/compress.php on line 56
+[08-Jun-2023 16:34:07 America/Toronto] PHP Warning:  imagecreatefrompng(): gd-png error: setjmp returns error condition in /home/teamwogp/public_html/upload/compress.php on line 56
+[08-Jun-2023 16:34:07 America/Toronto] PHP Warning:  imagecreatefrompng(): './1649977764Add a subheading (1).png' is not a valid PNG file in /home/teamwogp/public_html/upload/compress.php on line 56
+[08-Jun-2023 16:34:07 America/Toronto] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/teamwogp/public_html/upload/compress.php on line 63
